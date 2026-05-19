@@ -1,2 +1,2 @@
 # Misiqula
-My first app with cloud and only with fhone 
+My first app with cloud and only with phone .
